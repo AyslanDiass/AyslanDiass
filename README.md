@@ -1,8 +1,8 @@
 < Hi there /> :trollface:
 
 Me chamo Ayslan Dias ,  Sou estudante na área de Programação , faço parte do DevClub um curso completo de Full Stack,
-Atualmente faço trabalhos pessoais e frelance para aumentar meu portifólio e obter experiência
-hoje estou atuando na parte de fronte- End,  estou aprendendo e criando projetos com as seguintes tecnologias :
+Atualmente faço trabalhos pessoais e frelance para aumentar meu portifólio e obter experiência.
+Hoje estou atuando na parte de fronte- End,  estou aprendendo e criando projetos com as seguintes tecnologias :
 
 - HTML
 - CSS
